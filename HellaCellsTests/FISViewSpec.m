@@ -15,7 +15,6 @@
 #import "FISHellaMasterTableViewController.h"
 
 
-
 SpecBegin(FISView)
 
 describe(@"User Interface", ^{
